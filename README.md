@@ -1,6 +1,19 @@
 # SAP-ka
 ---
 ## SAP okítás kicsiknek és nagyoknak
+- Miről **NEM** lesz szó...
+- Miért nem lesz róla szó...
+- Mi fér bele 4 órába???
+
+---
+
+> Kezdetben vala a sötétség...
+> Teremté az embert. Szorgalmasakat és lustákat. Majd hívá a lustákat _infomatikusnak_ és megbélyegzé őket...
+
+- egyiptomi, maya, sumér birodalmak, Nagy Sándor, Római birodalom, Nagy Fal -> hogyan oldották meg?
+- Okosabbak voltak? Volt elég idejük? 
+
+
 ---
 ## ERP rendszerek
 - mik azok,
